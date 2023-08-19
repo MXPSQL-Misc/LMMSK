@@ -1,0 +1,3 @@
+[submodule "MPJ1"]
+	path = MPJ1
+	url = https://github.com/MXPSQL-Misc/MPJ1.git

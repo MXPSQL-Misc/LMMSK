@@ -1,3 +1,7 @@
+# Generics
 *.bak
 **/Adobe Premiere Pro Preview Files/**
 *.mp4
+
+# B-Bassin_REJected specific
+b-bassin-REJected/*.wav

@@ -4,4 +4,5 @@
 *.mp4
 
 # B-Bassin_REJected specific
-b-bassin-REJected/*.wav
+b-bassin-REjected/*.wav
+b-bassin-REjected/*.aep

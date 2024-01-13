@@ -2,6 +2,13 @@
 *.bak
 **/Adobe Premiere Pro Preview Files/**
 *.mp4
+.DS_Store
+
+# SF2 specific
+# SF2 are notoriously heavy, typically.
+**/*.sf2
+!commons/*.sf2
+
 
 # B-Bassin_REJected specific
 b-bassin-REjected/*.wav

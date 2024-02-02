@@ -13,3 +13,6 @@
 # B-Bassin_REJected specific
 b-bassin-REjected/*.wav
 b-bassin-REjected/*.aep
+
+# Goopy specific
+goopy/goopyvid_assets/

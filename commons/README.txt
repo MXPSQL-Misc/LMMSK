@@ -11,3 +11,6 @@ just ignore them, and obtain them.
 These patches are not available in the git repository for reasons
 such as size. In this case, look at the attributions and obtain 
 yours from there.
+
+Audiopack is a folder for where you can find some of my custom instruments,
+Such as the TripleOscillator instruments, and the Vibed instruments.

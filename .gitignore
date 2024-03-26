@@ -16,3 +16,7 @@ b-bassin-REjected/*.aep
 
 # Goopy specific
 goopy/goopyvid_assets/
+
+# B-Bassin-Remastersys specific
+b-bassin-Remastersys/b-bassin-remastersys_assets
+b-bassin-Remastersys/*.mp4

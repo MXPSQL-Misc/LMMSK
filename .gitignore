@@ -1,7 +1,9 @@
 # Generics
 *.bak
+**/*.bak
 **/Adobe Premiere Pro Preview Files/**
 *.mp4
+**/*.mp4
 .DS_Store
 
 # SF2 specific

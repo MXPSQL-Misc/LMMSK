@@ -11,14 +11,18 @@
 **/*.sf2
 !commons/*.sf2
 
+# B-Bassin family specifics
+## B-Bassin_REJected specific
+B-bassin-comp/b-bassin-REjected/*.wav
+B-bassin-comp/b-bassin-REjected/*.aep
 
-# B-Bassin_REJected specific
-b-bassin-REjected/*.wav
-b-bassin-REjected/*.aep
+## B-Bassin-Remastersys specific
+B-bassin-comp/b-bassin-Remastersys/b-bassin-remastersys_assets
+b-bassin-comp/b-bassin-Remastersys/*.mp4
+
 
 # Goopy specific
 goopy/goopyvid_assets/
 
-# B-Bassin-Remastersys specific
-b-bassin-Remastersys/b-bassin-remastersys_assets
-b-bassin-Remastersys/*.mp4
+# Refysad specific
+# Refysad/renderer/

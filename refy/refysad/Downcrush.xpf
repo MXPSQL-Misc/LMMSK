@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project type="instrumenttracksettings" version="1.0" creator="LMMS" creatorversion="1.2.2">
+  <head/>
+  <instrumenttracksettings type="0" solo="0" muted="0" name="Downcrush!">
+    <instrumenttrack basenote="57" usemasterpitch="1" pan="0" pitch="0" vol="100" fxch="0" pitchrange="1">
+      <instrument name="tripleoscillator">
+        <tripleoscillator wavetype0="3" wavetype2="4" userwavefile2="" finer0="0" pan1="0" phoffset0="0" userwavefile0="" pan2="0" stphdetun2="0" stphdetun0="0" coarse0="0" pan0="0" modalgo1="0" userwavefile1="" coarse2="-24" finel2="0" phoffset1="0" wavetype1="2" coarse1="-12" vol2="33" finer1="0" finel1="0" stphdetun1="0" finel0="0" modalgo3="2" modalgo2="0" finer2="0" phoffset2="0" vol0="33" vol1="33"/>
+      </instrument>
+      <eldata ftype="0" fres="2.0799999" fwet="0" fcut="4321">
+        <elvol x100="0" pdel="0" att="0" lspd_syncmode="0" ctlenvamt="0" lspd="0.1" latt="0" dec="0.5" amt="1" sustain="0.5" lspd_denominator="4" userwavefile="" lpdel="0" lspd_numerator="4" rel="0.1" lamt="0" hold="0.16000001" lshp="0"/>
+        <elcut x100="0" pdel="0" att="0" lspd_syncmode="0" ctlenvamt="0" lspd="0.1" latt="0" dec="0.167" amt="1" sustain="0" lspd_denominator="4" userwavefile="" lpdel="0" lspd_numerator="4" rel="0" lamt="0" hold="0" lshp="0"/>
+        <elres x100="0" pdel="0" att="0" lspd_syncmode="0" ctlenvamt="0" lspd="0.1" latt="0" dec="0.5" amt="0" sustain="0.5" lspd_denominator="4" userwavefile="" lpdel="0" lspd_numerator="4" rel="0.1" lamt="0" hold="0.5" lshp="0"/>
+      </eldata>
+      <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+      <arpeggiator arptime_syncmode="0" arprange="2" arpmiss="0" arpskip="0" arptime_numerator="4" arp="0" arpmode="0" arp-enabled="0" arptime_denominator="4" arpgate="100" arpdir="3" arptime="187" arpcycle="0"/>
+      <midiport inputcontroller="0" inputchannel="0" outputchannel="1" fixedinputvelocity="-1" basevelocity="127" readable="0" fixedoutputvelocity="-1" outputcontroller="0" fixedoutputnote="-1" writable="0" outputprogram="1"/>
+      <fxchain enabled="0" numofeffects="0"/>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

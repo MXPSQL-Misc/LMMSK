@@ -24,5 +24,6 @@ b-bassin-comp/b-bassin-Remastersys/*.mp4
 # Goopy specific
 goopy/goopyvid_assets/
 
-# Refysad specific
-# Refysad/renderer/
+# Refy family specifics
+## Refysad specific
+Refy/refysad/rendererv2/refysad_assets/

@@ -5,6 +5,8 @@
 *.mp4
 **/*.mp4
 .DS_Store
+**/.DS_Store
+**/*.kra~
 
 # SF2 specific
 # SF2 are notoriously heavy, typically.
@@ -32,3 +34,6 @@ Refy/refysad/rendererv2/refysad_assets/
 # amogus family specifics
 ## Meltdown specifics
 amogus/meltdown/video/renderer_assets/
+
+## Dip specifics
+amogus/dip/video/renderer_assets/

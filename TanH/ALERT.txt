@@ -1,0 +1,5 @@
+The renderer projects for ATanH and CTanH was corrupted in a way that
+their project file links to the actual files are broken.
+
+Please fix this yourself, and it be nice to send a fixed setup.
+Idk what happened here, but the files are no longer found.

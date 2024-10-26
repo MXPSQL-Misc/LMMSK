@@ -6,6 +6,8 @@ The ATanH melody is shared across the TanH EP.
 
 cover.jpeg is the cover art for the TanH EP.
 
+[Link to the playlist](https://www.youtube.com/playlist?list=PLDstjRfeiEcE2Y3_oYgJxl9QflnsMVdGU)
+
 ## Name
 
 The TanH songs are composed of two parts. Let's take ATanH as an example.  
